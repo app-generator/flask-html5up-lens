@@ -1,0 +1,21 @@
+{
+    "copy"    : "AppSeed", 
+    "email"   : "support@appseed.us",
+    "design"  : "Standout by Pixelarity",
+
+    "links" : {
+        "product"        : "https://appseed.us/apps/flask-apps/flask-standout-pixelarity", 
+        "github"         : "https://github.com/app-generator/priv-flask-standout",
+        "docs"           : "https://docs.appseed.us/apps/flask/flask-standout-pixelarity/",
+        "appseed"        : "https://appseed.us",      
+        "generator"      : "https://appseed.us/app-generator",
+        "blog"           : "https://blog.appseed.us/",
+        "facebook"       : "https://facebook.com/webappseed",
+        "twitter"        : "https://twitter.com/webappseed",
+        "instagram"      : "https://instagram.com/webappseed",
+        "support"        : "https://appseed.us/support",
+        "discord"        : "https://discord.gg/fZC6hup"
+    }, 
+
+    "LAST_KEY" : "NA"
+}

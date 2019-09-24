@@ -1,0 +1,33 @@
+{
+    "name": "flask-html5up-lens",
+    "version": "0.0.1",
+    "description": "Flask Lens - WebApp generated with automation tools | AppSeed",
+    "main": "gruntfile.js",
+    "devDependencies": {
+        "rimraf": "^2.5.2"
+    },
+    "engines": {
+        "node": ">=0.10.1"
+    },
+    "scripts": {
+        "start"        : "flask run",
+        "shell"        : "flask shell",
+        "build-static" : "python ./static.py",
+        "serve-static" : "serve app/build",
+        "deploy"       : "node deploy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/app-generator/flask-html5up-lens"
+    },
+    "bugs": {
+        "url": "https://github.com/app-generator/flask-html5up-lens/issues",
+        "email": "support@appseed.us"
+    },
+    "author": "AppSeed.us <support@appseed.us> (https://appseed.us)",
+    "license": "Commercial",
+    "private": false,
+    "dependencies": {
+        "ftp-deploy": "^2.3.3"
+    }
+}
